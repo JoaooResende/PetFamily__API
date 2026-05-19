@@ -238,10 +238,10 @@ GET /lembretes?status=PENDENTE&page=0&size=10
 
 ## Integrantes
 
-| Nome | RM | Responsabilidade |
-|---|---|---|
-| Pedro Vaz Ferreira | — | Desenvolvimento backend, entidades, controllers, documentação |
-| João Victor Luiz Oliveira Resende | — | Testes Postman, documentação, validação da API |
+| Nome | RM |
+|---|---|
+| Pedro Vaz Ferreira | 566551 | 
+| João Victor Luiz Oliveira Resende | 565139 |
 
 ---
 
